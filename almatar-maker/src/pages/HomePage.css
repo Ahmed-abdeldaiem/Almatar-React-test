@@ -1,0 +1,9 @@
+.HomePage{
+
+    /* height: 70vh; */
+    background:no-repeat fixed  linear-gradient(to bottom, rgba(251, 234, 222, 0.522) 0%, rgba(208, 183, 165, 0.075) 100%),url('../images/back2.webp') ;
+    
+
+    background-size: cover;
+    padding:  5rem 0rem;
+}

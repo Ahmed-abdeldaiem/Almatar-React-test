@@ -1,0 +1,32 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "Ahmed",
+        "password": "Ahmed@1234"
+    
+      },
+      {
+        "id": "2",
+        "username": "Omar",
+        "password": "Omar@1234"
+    
+      }
+    ]
+    ,
+    "customers": [
+      {
+        "id": "1",
+        "username": "ahmed-saad",
+        "phone": "01092293656"
+    
+      },
+      {
+        "id": "2",
+        "username": "omar-mohamed",
+        "phone": "01064696696"
+    
+      }
+    ]
+
+  }

@@ -1,0 +1,20 @@
+.MainNav{
+   background: linear-gradient(45deg,#543CD0 0%,#ae459c 99%);
+   
+}
+.Visit{
+    color: aliceblue !important;
+    transition: .3s;
+}
+.Visit:hover{
+    color: gold !important;
+    transition: .3s;
+}
+.Logo{
+    width: 25vw;
+    height: 13vh;
+    background-image: url('../images/almatar_en.png') ;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}

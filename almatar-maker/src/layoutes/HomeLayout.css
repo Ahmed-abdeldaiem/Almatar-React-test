@@ -1,0 +1,13 @@
+.HomeLayOut{
+    background-color: #F2F6FB;
+    border: rgba(235, 213, 91, 0.767) 1px solid;
+    /* height: 13vh; */
+}
+
+.HeaderParagraph{
+    color: #212529;
+    word-spacing: .9rem;
+    letter-spacing: .2rem;
+    font-weight: bolder;
+
+}

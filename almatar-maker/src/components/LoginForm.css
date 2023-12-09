@@ -1,0 +1,11 @@
+.SubmitBTN{
+    background: linear-gradient(45deg,#543CD0 0%,#ae459c 99%);
+    border: gold solid 2px;
+    letter-spacing: .1rem;
+    transition: .8s;
+}
+
+.SubmitBTN:hover{
+    color: gold;
+    transition: .8s;
+}
